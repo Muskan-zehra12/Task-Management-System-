@@ -1,0 +1,6 @@
+@ZenTask.API_HostAddress = http://localhost:5110
+
+GET {{ZenTask.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

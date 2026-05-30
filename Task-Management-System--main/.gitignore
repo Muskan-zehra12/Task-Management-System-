@@ -1,0 +1,31 @@
+# IDEs
+.vs/
+.vscode/
+*.swp
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+TestResults/
+dist/
+node_modules/
+
+# Dependencies
+packages/
+.npm/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log

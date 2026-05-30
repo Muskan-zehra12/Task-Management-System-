@@ -1,0 +1,5 @@
+Title,Description,Status,Priority,Category,DueDate,UserId
+"Complete System Architecture","Review and finalize the backend diagrams","InProgress","High","Development","2026-06-15",""
+"Implement Auth Service","Setup Identity and JWT providers","Pending","Medium","Security","2026-05-20",""
+"Design Dashboard UI","Create mockups for the main overview screen","Completed","Low","Design","2026-05-01",""
+"Weekly Sync Meeting","Team coordination and progress report","Pending","High","Management","2026-05-10",""

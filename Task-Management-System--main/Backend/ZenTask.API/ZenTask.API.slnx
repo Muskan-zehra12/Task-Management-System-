@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../ZenTask.Tests/ZenTask.Tests.csproj" />
+  <Project Path="ZenTask.API/ZenTask.API.csproj" />
+</Solution>
